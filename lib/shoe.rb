@@ -10,8 +10,8 @@ class Shoe
     @brand
   end
 
-  def turn_page
-    puts "Flipping the page...wow, you read fast!"
+  def bobble
+    puts "Shoe has been repaired."
   end
 
 end
