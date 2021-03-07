@@ -14,8 +14,10 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
+  shoe = Shoe.condition("new")
+
 
 end
 
-shoe = Shoe.new("Nike")
-shoe.cobble
+shoe = Shoe.condition("new")
+
