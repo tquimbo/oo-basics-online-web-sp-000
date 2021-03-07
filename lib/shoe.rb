@@ -14,4 +14,7 @@ class Shoe
     puts "Shoe has been repaired."
   end
 
+shoe = Shoe.new("Nike")
+shoe.bobble
+
 end
